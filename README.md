@@ -1,4 +1,4 @@
-# Dataset-aggregation
+# Dataset-Merge
 This code is to use Python 3.5 to merge three datasets into one dataset 
 based on the temporal stamp and spatial stamp<br>
 <br>
