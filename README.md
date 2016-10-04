@@ -2,7 +2,8 @@
 This code is to use Python 3.5 to merge three datasets into one dataset 
 based on the temporal stamp and spatial stamp<br>
 <br>
-
+I use the dataset collected in New York as example.<br>
+Basically, you can choose any location you'd like to analyze.<br>
 
 The three dataset are the following.<br>
 1.Yellow Taxi Record Dataset:<br> 
